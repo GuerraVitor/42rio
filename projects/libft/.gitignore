@@ -1,0 +1,12 @@
+# Arquivos de objeto compilados
+*.o
+
+# Bibliotecas estáticas
+*.a
+
+# Executável padrão do compilador
+a.out
+
+# Configurações de editores/IDEs
+.vscode/
+.idea/
